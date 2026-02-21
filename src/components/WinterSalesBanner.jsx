@@ -19,7 +19,7 @@ export default function WinterSaleBanner() {
   return (
     <section className="px-5 md:px-12 lg:px-17 py-10">
       <div className="max-w-7xl mx-auto">
-        <div className="relative overflow-hidden rounded-2xl bg-[url('src/assets/winter-sale.png')] bg-cover bg-center group">
+        <div className="relative overflow-hidden rounded-2xl bg-[url('/assets/winter-sale.png')] bg-cover bg-center group">
           {/* subtle pattern overlay */}
           <div className="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-700 pointer-events-none">
             <div className="absolute inset-0 bg-gradient-to-b from-white/10 to-gray-400/40" />

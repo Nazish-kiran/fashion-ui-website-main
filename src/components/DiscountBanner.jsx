@@ -11,7 +11,7 @@ export default function DiscountBanner() {
             autoPlay
             loop
             muted
-            src="src/assets/video/sale-banner-video.mp4"
+            src="/assets/video/sale-banner-video.mp4"
             className="w-full h-65 md:h-85 lg:h-100 object-cover"
           />
 
@@ -25,7 +25,7 @@ export default function DiscountBanner() {
             <div className="relative max-w-md w-full">
               
               {/* inner image background */}
-              <div className="absolute inset-0 bg-[url('src/assets/sale-banner.png')] bg-cover bg-center rounded-2xl" />
+              <div className="absolute inset-0 bg-[url('/assets/sale-banner.png')] bg-cover bg-center rounded-2xl" />
               
               {/* inner dark overlay */}
               <div className="absolute inset-0 bg-black/40 rounded-2xl" />
