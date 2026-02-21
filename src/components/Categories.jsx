@@ -7,14 +7,14 @@ const products = [
     id: 1,
     name: "Black T-Shirt",
     price: "$20.00",
-    image: "src/assets/shirt.png",
+    image: "/assets/shirt.png",
     tag: ["women", "men"],
   },
   {
     id: 2,
     name: "Tank top",
     price: "$18.00",
-    image: "src/assets/tank-top.png",
+    image: "/assets/tank-top.png",
     tag: ["new", "women"],
   },
   {

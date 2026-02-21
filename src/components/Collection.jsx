@@ -1,13 +1,13 @@
 import React, { useState, useEffect, useRef } from "react";
 
 const images = [
-  "src/assets/image010.webp",
-  "src/assets/ww-dresses-mob-data.jpg",
-  "src/assets/b9eddb606afa3c6f6776fff7a9748b73.jpg",
-  "src/assets/fea71bd32059605bbf856fa5a3c90442.jpg",
-  "src/assets/af458c8f078f89b76c395636c74adb96-683x1024.jpg",
-  "src/assets/monaco-maxi-dress-black-jess_1800x.webp",
-  "src/assets/image.png",
+  "/assets/image010.webp",
+  "/assets/ww-dresses-mob-data.jpg",
+  "/assets/b9eddb606afa3c6f6776fff7a9748b73.jpg",
+  "/assets/fea71bd32059605bbf856fa5a3c90442.jpg",
+  "/assets/af458c8f078f89b76c395636c74adb96-683x1024.jpg",
+  "/assets/monaco-maxi-dress-black-jess_1800x.webp",
+  "/assets/image.png",
 ];
 
 const Collection = () => {

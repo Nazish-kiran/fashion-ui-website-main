@@ -1,5 +1,5 @@
 import React from "react";
-import sampleImage from "../assets/everyday-looks.png"
+import sampleImage from "/assets/everyday-looks.png"
 import { FiArrowRight } from "react-icons/fi";
 
 const EverydayLooks = () => {
