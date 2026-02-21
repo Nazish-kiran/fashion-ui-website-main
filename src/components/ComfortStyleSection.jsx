@@ -40,7 +40,7 @@ export default function ComfortStyleSection() {
           {/* Card 2 */}
           <div className="group relative rounded-2xl overflow-hidden md:col-span-1 cursor-pointer hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
             <img
-              src="src/assets/new-collection.png"
+              src="/assets/new-collection.png"
               alt="collection"
               className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
             />
@@ -56,7 +56,7 @@ export default function ComfortStyleSection() {
           {/* Card 3 (Tall) */}
           <div className="group relative rounded-2xl overflow-hidden md:col-span-1 md:row-span-2 cursor-pointer hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
             <img
-              src="src/assets/trendy-collection.png"
+              src="/assets/trendy-collection.png"
               alt="trendy"
               className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
             />

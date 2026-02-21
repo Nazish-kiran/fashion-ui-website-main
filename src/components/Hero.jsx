@@ -66,7 +66,7 @@ const Hero = () => {
       {/* RIGHT IMAGE */}
       <div>
         <img
-          src="src/assets/5b6d83fd64f7e3edaadfdfae3f8892ae.jpg"
+          src="/assets/5b6d83fd64f7e3edaadfdfae3f8892ae.jpg"
           className="w-full rounded-2xl"
           alt="fashion"
         />
